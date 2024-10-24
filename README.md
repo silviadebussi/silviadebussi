@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**silviadebussi/silviadebussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Silvia Debussi**, a passionate backend developer with expertise in Java, Python (Django), Spring Framework, and SQL for data management. I love solving complex problems and building scalable, efficient backend systems.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+- [Java]
+  [Spring]
+- [Python]
+- [Django]
+  [SQL]
+- [PostgreSQL]
+- [MySQL]
+  [Git]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I'm currently learning
+- Advanced **Spring Boot** and **Microservices Architecture**
+- Enhancing **SQL** skills for advanced data analytics
+- Exploring **Docker** and **Kubernetes** for containerization
+
+### 🔭 I'm currently working on
+- A **Django**-based web application for data visualization and reporting
+- Backend services using **Java** and **Spring Boot** to support a large-scale e-commerce platform
+
+### 👯 I'm looking to collaborate on
+- Open-source projects related to **backend development**, **APIs**, or **data processing**.
+
+### 💬 Ask me about
+- Building robust **REST APIs** with Django and Spring Boot
+- Managing and querying databases with **SQL**
+- **Java** and **Python** backend development
