@@ -4,14 +4,15 @@ I'm **Silvia Debussi**, a passionate backend developer with expertise in Java, P
 
 ### 🛠️ Tech Stack & Skills
 - [Java]
-  [Spring]
+- [Spring]
 - [Python]
 - [Django]
-  [SQL]
+- [SQL]
 - [PostgreSQL]
 - [MySQL]
-  [Git]
-
+- [Git]
+- [JavaScript]
+- [React]
 ### 🌱 I'm currently learning
 - Advanced **Spring Boot** and **Microservices Architecture**
 - Enhancing **SQL** skills for advanced data analytics
