@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm **Silvia Debussi**, a passionate backend developer with expertise in Java, Python (Django), Spring Framework, and SQL for data management. I love solving complex problems and building scalable, efficient backend systems.
-
+I'm **Silvia Debussi**, a passionate backend developer with expertise in Java, Python (Django), Spring Framework, and SQL for data management. 
 ### 🛠️ Tech Stack & Skills
 - [Java]
 - [Spring]
@@ -13,14 +12,11 @@ I'm **Silvia Debussi**, a passionate backend developer with expertise in Java, P
 - [Git]
 - [JavaScript]
 - [React]
+- 
 ### 🌱 I'm currently learning
 - Advanced **Spring Boot** and **Microservices Architecture**
 - Enhancing **SQL** skills for advanced data analytics
 - Exploring **Docker** and **Kubernetes** for containerization
-
-### 🔭 I'm currently working on
-- A **Django**-based web application for data visualization and reporting
-- Backend services using **Java** and **Spring Boot** to support a large-scale e-commerce platform
 
 ### 👯 I'm looking to collaborate on
 - Open-source projects related to **backend development**, **APIs**, or **data processing**.
