@@ -63,6 +63,4 @@ I love solving real-world problems through clean architecture, well-structured A
 </p>
 
 
----
 
-⭐ _“Clean code, clear logic, and a little bit of caffeine — that’s how I build.”_
