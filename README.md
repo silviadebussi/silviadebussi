@@ -57,15 +57,14 @@ I love solving real-world problems through clean architecture, well-structured A
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="www.linkedin.com/in/
-silvia-debussi-5b1aa5232
-" target="_blank">
+  <a href="https://www.linkedin.com/in/silvia-debussi-5b1aa5232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:silviadebussi2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
